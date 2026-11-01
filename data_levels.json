@@ -1,0 +1,13 @@
+{
+  "game_title": "Ra.One: The Corrupted Engine",
+  "version": "v6",
+  "focus": "Level 1",
+  "hero": "G.One",
+  "level": {
+    "name": "The Awakening",
+    "enemy_count": 16,
+    "boss": "Spider-Mech Guardian",
+    "boss_condition": "Boss spawns only after all 16 security drones are defeated",
+    "boss_phase": "Red world corruption, radial burst and aimed spread projectiles"
+  }
+}
